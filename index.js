@@ -14,7 +14,8 @@ function yourAnimal() {
   return yourAnimal
 }
 
-function add2(n) {const two = 265
+function add2(n) {
+  const two = 265
   return n + two
 
   // Feel free to move things around!
